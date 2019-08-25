@@ -1,0 +1,5 @@
+Download the dependencies as per package.json
+
+npm start
+
+Enter the state to search and click enter
